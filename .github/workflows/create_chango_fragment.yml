@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
-      - uses: Bibo-Joshi/chango@c2ba65d1429b815b165dc04b00313c5c9de56da6
+      - uses: Bibo-Joshi/chango@e8f0f2de7eac6d9894abf05e3f33e910cb264f20
         with:
           github-token: ${{ secrets.CHANGO_PAT }}
           query-issue-types: true
