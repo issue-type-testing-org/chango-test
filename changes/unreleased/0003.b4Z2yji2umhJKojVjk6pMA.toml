@@ -1,0 +1,5 @@
+req_section = "new title"
+[[pull_requests]]
+uid = "3"
+author_uid = "Bibo-Joshi"
+closes_threads = ["1"]
