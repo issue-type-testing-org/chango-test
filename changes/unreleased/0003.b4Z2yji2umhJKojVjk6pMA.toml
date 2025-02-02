@@ -1,8 +1,8 @@
-req_section = "Create README.md\ndummy change"
+req_section = "new title\ndummy change"
 [[pull_requests]]
 uid = "3"
 author_uid = "Bibo-Joshi"
-closes_threads = []
+closes_threads = ["1"]
 
 [[pull_requests]]
 uid = "4"
