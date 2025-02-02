@@ -1,4 +1,4 @@
-req_section = "new title\ndummy change"
+req_section = "new title\ndummy change\ndummy change with updated title"
 [[pull_requests]]
 uid = "3"
 author_uid = "Bibo-Joshi"
@@ -8,3 +8,8 @@ closes_threads = ["1"]
 uid = "4"
 author_uid = "Bibo-Joshi"
 closes_threads = []
+
+[[pull_requests]]
+uid = "4"
+author_uid = "Bibo-Joshi"
+closes_threads = ["2"]
