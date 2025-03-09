@@ -13,7 +13,7 @@ from chango.concrete.sections import GitHubSectionChangeNote, Section, SectionVe
 CustomChangeNote = GitHubSectionChangeNote.with_sections(
     [
         Section(uid="req_section", title="Required Section", is_required=True),
-        Section(uid="opt_section", title="Optional Section"),
+        Section(uid="opt_section", title="Optional Sectionnnnn"),
     ]
 )
 
